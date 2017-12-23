@@ -1,0 +1,5 @@
+welcome: Would you like me to randomly choose a film?
+
+chosen: I've picked {{ film }}, it's rated {{ rating }} out of ten on IMDB.
+
+error: Sorry, I couldn't pick a film!
